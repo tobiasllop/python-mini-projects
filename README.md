@@ -1,6 +1,4 @@
-# python-mini-projects
-A lot of python projects that I have made to train lists, functions and loops.
+# Impostor Number
+In this project there is a function called ```impostor_number``` that takes numbers from a string and analyze who of them is the *impostor number*. 
 
-:arrow_forward: View all the branches to see the different projects
-
-**Two to One**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Two-to-one)
+The function check if the numbers from the string are odd or even, and if one of the numbers differ from the others, is the impostor number. After that, the function prints the position of the *impostor number*
