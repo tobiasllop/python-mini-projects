@@ -1,4 +1,4 @@
-def iq_test(numbers):
+def impostor_number(numbers):
   num = numbers.split()
   Odds=0
   Evens=0
@@ -18,6 +18,6 @@ def iq_test(numbers):
         position=i+1
   print(f"The number that differs from the other is the one that is in the {position}° position \n") 
 
-iq_test("1 26 3 27 27 13")
-iq_test("1 1 2 1")
-iq_test("8 6 0 3 12 28")
+impostor_number("1 26 3 27 27 13")
+impostor_number("1 1 2 1")
+impostor_number("8 6 0 3 12 28")
