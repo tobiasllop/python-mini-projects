@@ -1,8 +1,4 @@
-# python-mini-projects
-A lot of python projects that I have made to train lists, functions and loops.
+# Square digits
+This program ask you for a number with 2 or more digits and then it will print a new number with the results of every squared digit of the number that you have inserted.
 
-:arrow_forward: Look at all the branches to see the different projects
-
-- **Two to One**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Two-to-one)
-- **Impostor number**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Impostor-number)
-- **Binary Addition**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/binary-addition)
+The ``square_digits`` function square every digit from the number and then creates a list(``my_list``) with the result. After that the function joins every array from the list and print a new number.
