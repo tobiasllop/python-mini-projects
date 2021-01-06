@@ -5,4 +5,5 @@ A lot of python projects that I have made to train lists, functions and loops.
 
 - **Two to One**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Two-to-one)
 - **Impostor number**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Impostor-number)
-- **Binary Addition**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/binary-addition)
+- **Binary addition**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/binary-addition)
+- **Square digits**: [Go there](https://github.com/tobiasllop/python-mini-projects/tree/Square-digits)
